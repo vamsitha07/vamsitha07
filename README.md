@@ -12,7 +12,6 @@
 
 ![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Microsoft Certified Azure Data Engineer Associate](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Malvern,_PA-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -30,7 +29,7 @@ I like owning problems end to end, I care a lot about data quality being an
 engineering practice rather than someone checking spreadsheets, and I tend to pick
 up whatever is blocking the platform even when it sits outside my formal scope.
 
-**Currently:** Cloud Data Engineer @ Vanguard — Chief Technology Office & Chief Data Analytics Office, Data Engineering
+**Currently:** Data Engineer @ Vanguard — Chief Technology Office, Data Engineering
 and Enterprise Data Storage.
 
 ---
@@ -98,6 +97,19 @@ merge logic with about six lines of declarative pipeline code that correctly han
 out-of-order events, deletes, and idempotent reprocessing — fixing a correctness bug
 where deleted records were silently staying marked as current.
 
+**Natural-language-to-structured-config agent** — a generative AI advisory assistant on
+Amazon Bedrock (Claude Sonnet) using a ReAct agent with tool calling, letting engineers
+discover existing shares, validate configurations, and generate deployment-ready config
+by asking in plain language from Microsoft Teams. Turns an unstructured question into
+valid, structured platform input.
+
+**Messy operational domain → durable schemas** — converted clinical and member data out
+of legacy mainframe-era systems into standards-compliant healthcare resources (patient,
+observation, coverage, claim), delivered into a clinical data repository for validation
+and API access. A layered landing/conform/semantic/elastic architecture meant each stage
+did one thing, could be tested alone, and could be rerun safely from raw extract through
+production output — schemas that held up as the business changed.
+
 **Iceberg operational playbook** — proved managed table optimizers work across account
 boundaries (compacted a table from 600 small files to one with row count unchanged),
 then wrote the firm's operational standard covering compaction, snapshot expiry, time
@@ -138,8 +150,8 @@ Open to:
 
 ## Education & Certifications
 
-- **M.S., Computer Information Systems, Colorado State University**
-- **Bachelors**, Vignan Foundation for Science, Technology and Research
+- **M.S., Computer Information Systems** — Colorado State University
+- **B.Tech**, Vignan Foundation for Science, Technology and Research
 - **AWS Certified Solutions Architect – Associate**
 - **Microsoft Certified: Azure Data Engineer Associate**
 
