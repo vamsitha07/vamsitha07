@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vamsitha7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsitha7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsitha-gude/)
 [![GitHub](https://img.shields.io/badge/GitHub-vamsitha07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamsitha07)
 
 ![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
