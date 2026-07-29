@@ -29,7 +29,7 @@ I like owning problems end to end, I care a lot about data quality being an
 engineering practice rather than someone checking spreadsheets, and I tend to pick
 up whatever is blocking the platform even when it sits outside my formal scope.
 
-**Currently:** Data Engineer @ Vanguard — Chief Technology Office, Data Engineering
+**Currently:** Cloud Data Engineer @ Vanguard — Chief Technology Office & Chief Data Analytics Office, Data Engineering
 and Enterprise Data Storage.
 
 ---
